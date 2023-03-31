@@ -75,7 +75,7 @@ SELECT * FROM pokemons LIMIT 3 OFFSET 5;
 SELECT * FROM pokemons
 WHERE type = "fire" OR type = "grass"
 ORDER BY attack ASC
-LIMIT 3 OFFSET 2;
+LIMIT 3 OFFSET 2git git;
 
 SELECT * FROM pokemons ORDER BY attack ASC;
 
